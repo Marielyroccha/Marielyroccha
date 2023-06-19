@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Marielyroccha
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning Front-End
-- 💞️ I’m looking to collaborate on growth 
-- 📫 How to reach me Linkedin ->  https://www.linkedin.com/in/mariely-rocha/
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&size=27&pause=1000&color=F707F2&center=true&vCenter=true&multiline=true&width=442&height=90&lines=Seja+bem+Vindo+ao+meu+Git!;Mariely+Bosco+Rocha)](https://git.io/typing-svg)
 
 <!---
 Marielyroccha/Marielyroccha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
